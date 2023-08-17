@@ -34,7 +34,7 @@ const Product = ({
             style: "currency",
             currency: "USD",
           }).format(product.price)}
-          {itemInCart}
+          {/* {itemInCart} */}
         </p>
         <button onClick={onAddToCart}>Add to Cart</button>
       </div>

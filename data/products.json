@@ -1,19 +1,24 @@
 {
-    "products": [
-        {
-            "sku": "item0001",
-            "name": "Widget",
-            "price": 9.99
-        },
-        {
-            "sku": "item0002",
-            "name": "Premium Widget",
-            "price": 19.99
-        },
-        {
-            "sku": "item0003",
-            "name": "Deluxe Widget",
-            "price": 29.99
-        }
-    ]
+  "products": [
+    {
+      "sku": "flower02",
+      "name": "Colored Rose",
+      "price": 11.99
+    },
+    {
+      "sku": "flower03",
+      "name": "Pink Dahlia",
+      "price": 14.99
+    },
+    {
+      "sku": "flower04",
+      "name": "Premium Sunflower",
+      "price": 10.12
+    },
+    {
+      "sku": "flower05",
+      "name": "Best Roses",
+      "price": 14.33
+    }
+  ]
 }
