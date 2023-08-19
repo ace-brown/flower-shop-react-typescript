@@ -2,15 +2,15 @@
 
 Welcome to the Flower Shop App, a simple web application built using React and TypeScript that lets you explore a variety of beautiful flowers, add them to your cart, and manage your flower orders.
 
+![flower image](/public/flower-shop-1.png)
+![flower image](/public/flower-shop-2.png)
+
 ## Features
 
 - Browse through a selection of exquisite flowers.
 - Add flowers to your cart and specify the quantity.
 - View your cart to see the list of flowers you've ordered along with their quantities.
 - Update the quantity or remove flowers from your cart.
-
-![flower image](/public/flower-shop-1.png)
-![flower image](/public/flower-shop-2.png)
 
 ## Getting Started
 
